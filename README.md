@@ -27,6 +27,6 @@ I will try to balance functionality with usability, because several software hav
 - [RPCS3](https://rpcs3.net/) ([repo](https://github.com/RPCS3/rpcs3)) - wonderful PS3 emulator with advanced features.
 - [Ruffle](https://ruffle.rs/) ([repo](https://github.com/ruffle-rs/ruffle)) - Flash Player emulator reimplementation in Rust with high performance.
 - [Libretro](https://www.libretro.com/) ([repo](https://github.com/libretro)) - a umbrella of emulators and games based on libretro multimedia library, similar to [SDL](https://www.libsdl.org/).
-- [RetroArch](https://www.retroarch.com/) ([repo](https://github.com/libretro/RetroArch)) - most complete libretro frontend of the world, supporting dozens of libretro cores and bleeding-edge emulation features.
+- [RetroArch](https://www.retroarch.com/) ([repo](https://github.com/libretro/RetroArch)) - most complete libretro frontend, supporting dozens of libretro cores and bleeding-edge emulation features.
 
 <!-- - []() ([repo]()) - -->
