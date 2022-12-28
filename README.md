@@ -28,5 +28,7 @@ I will try to balance functionality with usability, because several software hav
 - [Ruffle](https://ruffle.rs/) ([repo](https://github.com/ruffle-rs/ruffle)) - Flash Player emulator reimplementation in Rust with high performance.
 - [Libretro](https://www.libretro.com/) ([repo](https://github.com/libretro)) - a umbrella of emulators and games based on libretro multimedia library, similar to [SDL](https://www.libsdl.org/).
 - [RetroArch](https://www.retroarch.com/) ([repo](https://github.com/libretro/RetroArch)) - most complete libretro frontend, supporting dozens of libretro cores and bleeding-edge emulation features.
+- [Syncthing](https://syncthing.net/) ([repo](https://github.com/syncthing/syncthing)) - file sharing tool that allow BitTorrent-like sharing with a cluster of connected devices with folder types.
+- [Warpinator](https://github.com/linuxmint/warpinator) - tool to share files on same local network.
 
 <!-- - []() ([repo]()) - -->
