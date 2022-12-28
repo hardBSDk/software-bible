@@ -21,5 +21,12 @@ I will try to balance functionality with usability, because several software hav
 - [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) - clean-room implementation of GoldSrc from Half Life 1 with wonderful improvements.
 - [Flameshot](https://flameshot.org/) ([repo](https://github.com/flameshot-org/flameshot)) - the most complete screenshot tool of the world.
 - [NewPipe](https://newpipe.net/) ([repo](https://github.com/TeamNewPipe/NewPipe/)) - the most complete streaming app for Android, it supports YouTube, SoundCloud, PeerTube and Bandcamp.
+- [OpenZFS](https://openzfs.github.io/openzfs-docs/) ([repo](https://github.com/openzfs/zfs)) - this implementation of ZFS aim to modernize the code for several Unix systems.
+- [FlightGear](https://www.flightgear.org/) ([repo](https://github.com/FlightGear/flightgear)) - most reallistic flight simulator of the world.
+- [DuckStation](https://www.duckstation.org/) ([repo](https://github.com/stenzek/duckstation)) - most complete PS1 emulator focused on accuracy and compatibility.
+- [RPCS3](https://rpcs3.net/) ([repo](https://github.com/RPCS3/rpcs3)) - wonderful PS3 emulator with advanced features.
+- [Ruffle](https://ruffle.rs/) ([repo](https://github.com/ruffle-rs/ruffle)) - Flash Player emulator reimplementation in Rust with high performance.
+- [Libretro](https://www.libretro.com/) ([repo](https://github.com/libretro)) - a umbrella of emulators and games based on libretro multimedia library, similar to [SDL](https://www.libsdl.org/).
+- [RetroArch](https://www.retroarch.com/) ([repo](https://github.com/libretro/RetroArch)) - most complete libretro frontend of the world, supporting dozens of libretro cores and bleeding-edge emulation features.
 
 <!-- - []() ([repo]()) - -->
