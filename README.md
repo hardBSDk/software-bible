@@ -18,7 +18,7 @@ I will try to balance functionality with usability, because several software hav
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - reimplementation of Grand Theft Auto - San Andreas on Unity engine with improvements and unlimited modding.
 - [Redox OS](https://www.redox-os.org/) ([repo](https://gitlab.redox-os.org/redox-os/redox)) - Unix-like operating system written in Rust, it use a microkernel design with memory-safety of Rust, being mostly bug-free/crash-free (inspired by Linux, BSD, Plan 9).
 - [HardenedBSD](https://hardenedbsd.org/) ([repo](https://git.hardenedbsd.org/hardenedbsd/HardenedBSD)) - hardened fork of FreeBSD which implemented the [grsecurity](https://grsecurity.net/) exploit mitigations design, being one of the most secure operating systems of the world.
-- [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) - clean-room implementation of GoldSrc of Half Life 1 with wonderful improvements.
+- [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) - clean-room implementation of GoldSrc from Half Life 1 with wonderful improvements.
 - [Flameshot](https://flameshot.org/) ([repo](https://github.com/flameshot-org/flameshot)) - the most complete screenshot tool of the world.
 - [NewPipe](https://newpipe.net/) ([repo](https://github.com/TeamNewPipe/NewPipe/)) - the most complete streaming app for Android, it supports YouTube, SoundCloud, PeerTube and Bandcamp.
 
