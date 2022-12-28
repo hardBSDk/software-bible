@@ -30,5 +30,6 @@ I will try to balance functionality with usability, because several software hav
 - [RetroArch](https://www.retroarch.com/) ([repo](https://github.com/libretro/RetroArch)) - most complete libretro frontend, supporting dozens of libretro cores and bleeding-edge emulation features.
 - [Syncthing](https://syncthing.net/) ([repo](https://github.com/syncthing/syncthing)) - file sharing tool that allow BitTorrent-like sharing with a cluster of connected devices with folder types.
 - [Warpinator](https://github.com/linuxmint/warpinator) - tool to share files on same local network.
+- [Ardour](https://ardour.org/) ([repo](https://git.ardour.org/ardour/ardour)) - powerful digital audio workstation equivalent to FL Studio/Ableton Live.
 
 <!-- - []() ([repo]()) - -->
