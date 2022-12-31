@@ -4,7 +4,7 @@ In this list you will found my most *BRUTAL* software, the software listed here 
 
 I will try to balance functionality with usability, because several software have annoying bloat (Electron) and I try to purge it whenever I can.
 
-- [Arcan](https://arcan-fe.com/) ([repo](https://github.com/letoram)) - an overlay operating system that replace X.Org/Wayland/GTK/Qt/D-Bus, improve security by replacing IPC, fail-resistent and OS/kernel agnostic.
+- [Arcan](https://arcan-fe.com/) ([repo](https://github.com/letoram)) - an overlay operating system that replace X.Org/Wayland/GTK/Qt/Electron/D-Bus, improve security by replacing IPC, fail-resistent and OS/kernel agnostic.
 - [OnionShare](https://onionshare.org/) ([repo](https://github.com/onionshare/onionshare)) - easily host your websites, files or chats on Tor network (.onion websites), can be installed via pip (onionshare-cli).
 - [XFE](http://roland65.free.fr/xfe/) ([repo](https://github.com/roland65/xfe)) - small yet powerful file manager, image viewer and text editor (low resource usage)
 - [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/) ([repo](https://github.com/hvdwolf/jExifToolGUI)) - tool to edit/remove EXIF from media files using the powerful ExifTool.
