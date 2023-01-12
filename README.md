@@ -8,6 +8,7 @@ I will try to balance functionality with usability, because several software hav
 - [OnionShare](https://onionshare.org/) ([repo](https://github.com/onionshare/onionshare)) - easily host your websites, files or chats on Tor network (.onion websites), can be installed via pip (onionshare-cli).
 - [XFE](http://roland65.free.fr/xfe/) ([repo](https://github.com/roland65/xfe)) - small yet powerful file manager, image viewer and text editor (low resource usage)
 - [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/) ([repo](https://github.com/hvdwolf/jExifToolGUI)) - tool to edit/remove EXIF from media files using the powerful ExifTool.
+- [Jami](https://jami.net/) ([repo](https://git.jami.net/savoirfairelinux)) - Most decentralized messaging app of the world, yet supporting advanced features such as file sharing, screen sharing, voice/video calls, groups and moderation.
 - [Lagrange](https://gmi.skyjake.fi/lagrange/) ([repo](https://github.com/skyjake/lagrange)) - small and beautiful [Gemini](https://gemini.circumlunar.space/) browser.
 - [NetSurf](https://www.netsurf-browser.org/) ([repo](https://source.netsurf-browser.org/)) - small/advanced browser for WWW, yet supporting some features from bloated WWW browsers (Chromium/Firefox).
 - [Upscayl](https://upscayl.github.io/) ([repo](https://github.com/upscayl/upscayl)) *using Electron* - AI image upscaler that use your GPU offline.
