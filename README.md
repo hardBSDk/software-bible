@@ -4,8 +4,10 @@ In this list you will found my most *BRUTAL* software, the software listed here 
 
 I will try to balance functionality with usability, because several software have annoying bloat (Electron) and I try to purge it whenever I can.
 
-- [Arcan](https://arcan-fe.com/) ([repo](https://github.com/letoram)) - an overlay operating system that replace X.Org/Wayland/GTK/Qt/Electron/D-Bus, improved security, fail-resistant and OS/kernel agnostic.
+- [Redox OS](https://www.redox-os.org/) ([repo](https://gitlab.redox-os.org/redox-os/redox)) - an Unix-like operating system written in Rust, it use a microkernel design with memory-safety of Rust, being mostly bug-free/crash-free and more secure due to true modularity (microkernel) and Rust incentives to write better code (inspired by Plan 9, Minix, BSD and Linux).
+- [HardenedBSD](https://hardenedbsd.org/) ([repo](https://git.hardenedbsd.org/hardenedbsd/HardenedBSD)) - hardened fork of FreeBSD which implemented the [grsecurity](https://grsecurity.net/) exploit mitigations design, being one of the most secure operating systems of the world.
 - [OnionShare](https://onionshare.org/) ([repo](https://github.com/onionshare/onionshare)) - easily host your websites, files or chats on Tor network (.onion websites), can be installed via pip (onionshare-cli).
+- [Lokinet](https://lokinet.org/) [repo](https://github.com/oxen-io/lokinet) an protocol-agnostic onion-routing network layer (same kind of network of Tor but not dependent on TCP like Tor) which tries to be more descentralized using a blockchain and improving the servers quality with monetary incentives.
 - [XFE](http://roland65.free.fr/xfe/) ([repo](https://github.com/roland65/xfe)) - small yet powerful file manager, image viewer and text editor (low resource usage)
 - [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/) ([repo](https://github.com/hvdwolf/jExifToolGUI)) - tool to edit/remove EXIF from media files using the powerful ExifTool.
 - [Jami](https://jami.net/) ([repo](https://git.jami.net/savoirfairelinux)) - Most decentralized messaging app of the world, yet supporting advanced features such as file sharing, screen sharing, voice/video calls, groups and moderation.
@@ -18,8 +20,6 @@ I will try to balance functionality with usability, because several software hav
 - [Manyverse](https://www.manyver.se/) ([repo](https://gitlab.com/staltz/manyverse)) *using Electron* - a revolutionary social network app that use [SSB protocol](https://www.scuttlebutt.nz/), who replicate messages/posts with your peers/followers, creating endless replication (can't be censored in any way).
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - fork of youtube-dl with improvements.
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - reimplementation of Grand Theft Auto - San Andreas on Unity engine with improvements and unlimited modding.
-- [Redox OS](https://www.redox-os.org/) ([repo](https://gitlab.redox-os.org/redox-os/redox)) - an Unix-like operating system written in Rust, it use a microkernel design with memory-safety of Rust, being mostly bug-free/crash-free due to true modularity (microkernel) and Rust incentives to write better code (inspired by Plan 9, Minix, BSD and Linux).
-- [HardenedBSD](https://hardenedbsd.org/) ([repo](https://git.hardenedbsd.org/hardenedbsd/HardenedBSD)) - hardened fork of FreeBSD which implemented the [grsecurity](https://grsecurity.net/) exploit mitigations design, being one of the most secure operating systems of the world.
 - [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) - clean-room implementation of GoldSrc from Half Life 1 with wonderful improvements.
 - [Flameshot](https://flameshot.org/) ([repo](https://github.com/flameshot-org/flameshot)) - the most complete screenshot tool of the world.
 - [NewPipe](https://newpipe.net/) ([repo](https://github.com/TeamNewPipe/NewPipe/)) - the most complete streaming app for Android, it supports YouTube, SoundCloud, PeerTube and Bandcamp.
@@ -33,5 +33,6 @@ I will try to balance functionality with usability, because several software hav
 - [Syncthing](https://syncthing.net/) ([repo](https://github.com/syncthing/syncthing)) - file sharing tool that allow BitTorrent-like sharing with a cluster of connected devices with folder types.
 - [Warpinator](https://github.com/linuxmint/warpinator) - tool to share files on same local network.
 - [Ardour](https://ardour.org/) ([repo](https://git.ardour.org/ardour/ardour)) - powerful digital audio workstation equivalent to FL Studio/Ableton Live.
+- [Arcan](https://arcan-fe.com/) ([repo](https://github.com/letoram)) - an overlay operating system that replace X.Org/Wayland/GTK/Qt/Electron/D-Bus, improved security, fail-resistant and OS/kernel agnostic.
 
 <!-- - []() ([repo]()) - -->
