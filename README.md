@@ -1,4 +1,4 @@
-# Based Software
+# Software Bible
 
 In this list you will found my most *BRUTAL* software, the software listed here is just perfect, I don't have other words.
 
