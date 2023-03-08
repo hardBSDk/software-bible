@@ -1,6 +1,6 @@
 # Software Bible
 
-In this list you will found my most *BRUTAL* software, the software listed here is just perfect, I don't have other words.
+In this list you will found my most *BRUTAL* software recomendations, the software listed here is just perfect, I don't have other words.
 
 I will try to balance functionality with usability, because several software have annoying bloat (Electron) and I try to purge it whenever I can.
 
