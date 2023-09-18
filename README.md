@@ -1,6 +1,6 @@
 # Software Bible
 
-In this list you will found my most *brutal* software recommendations, the software listed here is perfect.
+In this list you will found my most **BRUTAL** software recommendations, the software listed here is perfect.
 
 My focus is functionality/usability, several software have annoying bloat (Electron) that reduce the portability/security and increase resource consumption, I try to replace it whenever I can.
 
