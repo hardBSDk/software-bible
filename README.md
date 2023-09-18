@@ -20,11 +20,11 @@ My focus is functionality/usability, several software have annoying bloat (Elect
 
 - [Redox OS](https://www.redox-os.org/) - An Unix-like operating system written in Rust with a microkernel design.
 
-It aims to be correct, reliable and secure, a microkernel design move the system components to user-space (to reduce kernel panics and improve security) while the Rust compiler/syntax produce secure (memory-safety) and efficient code (inspired by Plan 9, Minix, BSD, seL4 and Linux).
+  It aims to be correct, reliable and secure, a microkernel design move the system components to user-space (to reduce kernel panics and improve security) while the Rust compiler/syntax produce secure (memory-safety) and efficient code (inspired by Plan 9, Minix, BSD, seL4 and Linux).
 
-- [Pop!_OS](https://pop.system76.com/) - An Ubuntu-based distribution with a focus on hardware reliability and system efficiency.
+- [Pop!_OS](https://pop.system76.com/) - An Ubuntu-based distribution focused on hardware reliability and system efficiency.
 
-It updates the Linux kernel version as long all System76 hardware is reliable, bundle a customized CFS scheduler policy to avoid hangs on X11/Wayland interfaces and will offer its own [desktop environment](https://github.com/pop-os/cosmic-epoch) written in Rust.
+  It updates the Linux kernel version as long all System76 hardware is reliable, bundle a customized CFS scheduler policy to avoid hangs on X11/Wayland interfaces and will offer its own [desktop environment](https://github.com/pop-os/cosmic-epoch) written in Rust.
 
 - [HardenedBSD](https://hardenedbsd.org/) - Hardened fork of FreeBSD with a implementation of the [grsecurity](https://grsecurity.net/) exploit mitigations and many other state-of-the-art mitigations.
 
@@ -53,7 +53,7 @@ It updates the Linux kernel version as long all System76 hardware is reliable, b
 - [Sniffnet](https://sniffnet.net/) - A nice tool to monitor your Internet traffic.
 - [Manyverse](https://www.manyver.se/) - A revolutionary social network app based on the [SSB protocol](https://www.scuttlebutt.nz/) - **Electron-based**.
 
-It replicate messages/posts with your peers/followers, creating an endless chain of backup (can't be censored in any way).
+  It replicate messages/posts with your peers/followers, creating an endless chain of backup (can't be censored in any way).
 
 - [youtube-tui](https://github.com/Siriusmart/youtube-tui) - A terminal-based YouTube frontend with advanced customization.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Fork of youtube-dl with improvements.
@@ -112,4 +112,4 @@ It replicate messages/posts with your peers/followers, creating an endless chain
 - [OpenZFS](https://openzfs.github.io/openzfs-docs/) - This implementation of ZFS aim to modernize the code for several Unix systems.
 - [Arcan](https://arcan-fe.com/) - An overlay operating system that replace X11, Wayland, GTK, Qt, Electron and D-Bus.
 
-It aims to improve security, be fail-resistant and OS-agnostic.
+  It aims to improve security, be fail-resistant and OS-agnostic.
