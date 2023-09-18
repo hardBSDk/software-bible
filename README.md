@@ -1,6 +1,6 @@
 # Software Bible
 
-In this list you will found my most **BRUTAL** software recommendations, the software listed here is perfect.
+On this list you will found my most **BRUTAL** software recommendations, the software listed here is perfect.
 
 My focus is functionality/usability, several software have annoying bloat (Electron) that reduce the portability/security and increase resource consumption, I try to replace it whenever I can.
 
@@ -21,6 +21,10 @@ My focus is functionality/usability, several software have annoying bloat (Elect
 - [Redox OS](https://www.redox-os.org/) - An Unix-like operating system written in Rust with a microkernel design.
 
 It aims to be correct, reliable and secure, a microkernel design move the system components to user-space (to reduce kernel panics and improve security) while the Rust compiler/syntax produce secure (memory-safety) and efficient code (inspired by Plan 9, Minix, BSD, seL4 and Linux).
+
+- [Pop!_OS](https://pop.system76.com/) - An Ubuntu-based distribution with a focus on hardware reliability and system efficiency.
+
+It updates the Linux kernel version as long all System76 hardware is reliable, bundle a customized CFS scheduler policy to avoid hangs on X11/Wayland interfaces and will offer its own [desktop environment](https://github.com/pop-os/cosmic-epoch) written in Rust.
 
 - [HardenedBSD](https://hardenedbsd.org/) - Hardened fork of FreeBSD with a implementation of the [grsecurity](https://grsecurity.net/) exploit mitigations and many other state-of-the-art mitigations.
 
